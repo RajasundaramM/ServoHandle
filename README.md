@@ -1,5 +1,5 @@
 # ServoHandle
-Arduino library for handling servo motors with features to impose angle limits on servo and ways to directly get current servo angle value.
+Arduino library for handling servo motors with functionality to impose angle constraints and ways to directly get current servo angle value.
 
 ## Using the library
 Download this file and save it with other libraries in Arduino -> libraries (usually found in Documents).
