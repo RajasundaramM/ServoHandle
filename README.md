@@ -2,7 +2,7 @@
 Arduino library for handling servo motors with functionality to impose angle constraints and ways to directly get current servo angle value.
 
 ## Using the library
-Download this file and save it with other libraries in Arduino -> libraries (usually found in Documents).
+Download this file and save the extracted contents in 'ServoHandle' folder with other libraries in Arduino -> libraries (usually found in Documents).
 Include this library in the code as shown below:
 
               #include<ServoHandle.h>
