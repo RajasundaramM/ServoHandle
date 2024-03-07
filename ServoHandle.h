@@ -1,3 +1,8 @@
+//----------------------------------------------
+// ServoHandle.h
+// Author: Rajasundaram Mathiazhagan
+// https://www.linkedin.com/in/rajasundaramm/
+//----------------------------------------------
 #ifndef ServoHandle_h
 #define ServoHandle_h
 
