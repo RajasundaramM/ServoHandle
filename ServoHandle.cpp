@@ -1,3 +1,8 @@
+//----------------------------------------------
+// ServoHandle.cpp
+// Author: Rajasundaram Mathiazhagan
+// https://www.linkedin.com/in/rajasundaramm/
+//----------------------------------------------
 #include "Arduino.h"
 #include "Servo.h"
 #include "ServoHandle.h"
